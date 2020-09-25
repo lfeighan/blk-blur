@@ -23,6 +23,7 @@ const NavBar = () => {
         <Toolbar>
 	        <Typography variant="h5">capsule//lookback</Typography>
 	        <div className={classes.grow} />
+	        {/* eslint-disable-next-line*/}
 	        <Typography variant="h5">//who we is//</Typography>
         </Toolbar>
       </AppBar>
